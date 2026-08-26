@@ -1,0 +1,15 @@
+C:\Users\LENOVO\OneDrive\Documentos\armario_de_productos\armario_de_productos\bin\Debug\net10.0\armario_de_productos.exe
+C:\Users\LENOVO\OneDrive\Documentos\armario_de_productos\armario_de_productos\bin\Debug\net10.0\armario_de_productos.deps.json
+C:\Users\LENOVO\OneDrive\Documentos\armario_de_productos\armario_de_productos\bin\Debug\net10.0\armario_de_productos.runtimeconfig.json
+C:\Users\LENOVO\OneDrive\Documentos\armario_de_productos\armario_de_productos\bin\Debug\net10.0\armario_de_productos.dll
+C:\Users\LENOVO\OneDrive\Documentos\armario_de_productos\armario_de_productos\bin\Debug\net10.0\armario_de_productos.pdb
+C:\Users\LENOVO\OneDrive\Documentos\armario_de_productos\armario_de_productos\obj\Debug\net10.0\armario_de_productos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\OneDrive\Documentos\armario_de_productos\armario_de_productos\obj\Debug\net10.0\armario_de_productos.AssemblyInfoInputs.cache
+C:\Users\LENOVO\OneDrive\Documentos\armario_de_productos\armario_de_productos\obj\Debug\net10.0\armario_de_productos.AssemblyInfo.vb
+C:\Users\LENOVO\OneDrive\Documentos\armario_de_productos\armario_de_productos\obj\Debug\net10.0\armario_de_productos.vbproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Documentos\armario_de_productos\armario_de_productos\obj\Debug\net10.0\armario_de_productos.sourcelink.json
+C:\Users\LENOVO\OneDrive\Documentos\armario_de_productos\armario_de_productos\obj\Debug\net10.0\armario_de_productos.dll
+C:\Users\LENOVO\OneDrive\Documentos\armario_de_productos\armario_de_productos\obj\Debug\net10.0\refint\armario_de_productos.dll
+C:\Users\LENOVO\OneDrive\Documentos\armario_de_productos\armario_de_productos\obj\Debug\net10.0\armario_de_productos.pdb
+C:\Users\LENOVO\OneDrive\Documentos\armario_de_productos\armario_de_productos\obj\Debug\net10.0\armario_de_productos.genruntimeconfig.cache
+C:\Users\LENOVO\OneDrive\Documentos\armario_de_productos\armario_de_productos\obj\Debug\net10.0\ref\armario_de_productos.dll
